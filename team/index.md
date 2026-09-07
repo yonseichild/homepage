@@ -53,7 +53,7 @@ nav:
 
 {% include figure.html image="images/team1.jpeg" %}
 {% include figure.html image="images/team2.jpeg" %}
-{% include figure.html image="images/team3.jpeg %}
+{% include figure.html image="images/team3.jpeg" %}
 
 {% endcapture %}
 
