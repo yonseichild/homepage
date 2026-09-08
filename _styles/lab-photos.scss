@@ -1,0 +1,7 @@
+---
+---
+
+// Keep Lab photos visually consistent with the rest of the site without altering the source files.
+#lab-photos + .grid img {
+  filter: brightness(0.9);
+}
