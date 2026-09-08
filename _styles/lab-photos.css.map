@@ -1,0 +1,1 @@
+{"version":3,"sourceRoot":"","sources":["lab-photos.scss"],"names":[],"mappings":"AACA;EACE","sourcesContent":["// Keep Lab photos visually consistent with the rest of the site without altering the source files.\n#lab-photos + .grid img {\n  filter: brightness(0.9);\n}\n"],"file":"lab-photos.css"}
