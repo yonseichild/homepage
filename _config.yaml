@@ -1,7 +1,11 @@
 # site properties and page defaults
 title: 연세대학교 발달심리 연구실
 subtitle: Yonsei Human Development Lab
-description: Welcome to Yonsei University Human Development Lab!
+description: 연세대학교 발달심리 연구실은 영유아와 아동의 언어 발달, 인지 발달, 호기심과 질문 능력, 사회·도덕성 발달을 연구합니다.
+url: https://childlab.yonsei.ac.kr
+baseurl: ""
+lang: ko
+locale: ko_KR
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
