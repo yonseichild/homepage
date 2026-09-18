@@ -5,6 +5,6 @@
 
   # 발달심리 연구실 홈페이지
 
-  Visit **[childlab.yonsei.ac.kr](http://childlab.yonsei.ac.kr)** 🚀
+  Visit **[childlab.yonsei.ac.kr](https://childlab.yonsei.ac.kr)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
