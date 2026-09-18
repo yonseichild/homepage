@@ -8,40 +8,21 @@
   tags:
     - 영아(~만1세)
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: 상호작용 대상에 따라 아동의 질문 특징이 어떻게 달라질까?
+  subtitle: 만 4세-10세
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  image: images/poster_ai.jpg
+  link: https://app.notion.com/p/4-10-19a4fd2d9c6480dc808ee3ad5e911fb9
+  description: 상호작용 대상에 따라 보이는 질문 특성이 어떻게 달라지는지를 알아보려고 합니다. 또한 아동이 상호작용 할 때 보이는 특성 및 상호작용 대상에 대한 아동의 인식이 가정 내 미디어 사용 경험과 어떠한 연관성이 있는지 살펴보려고 합니다.
   repo: greenelab/lab-website-template
   tags:
-    - resource
+    - 유아(~만6세)
+    - 초등학생
 
-- title: Cool Tutorial
+- title: 지난 연구 예시
   subtitle: a subtitle
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  link: x
+  description: 지난 연구
   repo: greenelab/lab-website-template
   tags:
-    - resource
-    - publication
-
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
-
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
