@@ -1,1 +1,1 @@
-Sitemap: http://childlab.yonsei.ac.kr/sitemap.xml
+Sitemap: https://childlab.yonsei.ac.kr/sitemap.xml
