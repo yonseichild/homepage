@@ -1,1 +1,1 @@
-Sitemap: https://yonseichild.github.io/homepage/sitemap.xml
+Sitemap: http://childlab.yonsei.ac.kr/sitemap.xml
