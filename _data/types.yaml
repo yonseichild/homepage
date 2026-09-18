@@ -114,6 +114,12 @@ instagram:
   tooltip: Instagram
   link: https://instagram.com/$VALUE
 
+kakao:
+  icon: fa-solid fa-comment
+  text: Kakao Channel
+  tooltip: Kakao Channel
+  link: $VALUE
+
 youtube:
   icon: fa-brands fa-youtube
   text: YouTube
