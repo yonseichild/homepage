@@ -13,7 +13,7 @@ order: 4
 ---
 
 #### Research Interest
-아동의 사회·인지 및 도덕성 발달, 인간의 정보 탐색과 회피 기제, 아동 언어 발달 및 습득, 이중언어 환경 
+Socio-Cognitive & Moral Development, Information Seeking & Avoidance Mechanisms, Early Language Acquisition & Development, Bilingualism & Bilingual Environments
 
 #### About me
-수정 예정
+I am interested in comprehensively studying children's cognitive developmental trajectories—from language acquisition to socio-moral maturation—based on an understanding of human information seeking and avoidance mechanisms.
