@@ -1,0 +1,26 @@
+.apa-publications h3 {
+  margin: 2.5rem 0 1.2rem;
+}
+.apa-publications ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.apa-publications li {
+  margin: 0 0 1.4rem;
+  padding-left: 2em;
+  text-indent: -2em;
+  text-align: left;
+  line-height: 1.8;
+  overflow-wrap: anywhere;
+}
+.apa-publications li > p {
+  margin: 0;
+  text-align: left;
+  line-height: inherit;
+}
+.apa-publications a {
+  white-space: nowrap;
+}
+
+/*# sourceMappingURL=publications.css.map */
