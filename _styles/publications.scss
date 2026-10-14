@@ -1,0 +1,33 @@
+---
+---
+
+.apa-publications {
+  h3 {
+    margin: 2.5rem 0 1.2rem;
+  }
+
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  li {
+    margin: 0 0 1.4rem;
+    padding-left: 2em;
+    text-indent: -2em;
+    text-align: left;
+    line-height: 1.8;
+    overflow-wrap: anywhere;
+  }
+
+  li > p {
+    margin: 0;
+    text-align: left;
+    line-height: inherit;
+  }
+
+  a {
+    white-space: nowrap;
+  }
+}

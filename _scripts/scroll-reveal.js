@@ -20,6 +20,9 @@
     const next = (element, kind) => addReveal(element, index++, kind);
 
     [...section.children].forEach((child) => {
+      // Long publication lists can exceed the observer's visible-area threshold.
+      if (child.classList.contains("apa-publications")) return;
+
       if (child.classList.contains("feature")) {
         next(child.querySelector(".feature-image"), "image");
         next(child.querySelector(".feature-text"));

@@ -136,7 +136,8 @@ header img {
 header .title {
   font-size: clamp(1.6rem, 2.56vw, 2.1875rem) !important;
   font-family: 'SchoolSafetyRoundedSmile', sans-serif !important;
-  font-weight: 700 !important;
+  font-weight: 400;
+  -webkit-text-stroke: 0.5px currentColor;
   opacity: 0.91;
 }
 header .subtitle {

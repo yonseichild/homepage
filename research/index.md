@@ -31,15 +31,12 @@ nav:
 
 {% include section.html %}
 
-## Publications & Conference Presentations
+## Publications
 
-{% include search-box.html %}
-
-{% include search-info.html %}
-
-{% include tags.html tags="Paper, Presentation" %}
-
-{% include list.html data="citations" component="citation" style="rich" %}
+{% capture publications %}{% include publications.md %}{% endcapture %}
+<div class="apa-publications">
+{{ publications | markdownify }}
+</div>
 
 <style>
 .cols > * {
