@@ -23,6 +23,11 @@
       // Long publication lists can exceed the observer's visible-area threshold.
       if (child.classList.contains("apa-publications")) return;
 
+      if (child.classList.contains("research-interests")) {
+        child.querySelectorAll(".research-interest").forEach((item) => next(item));
+        return;
+      }
+
       if (child.classList.contains("feature")) {
         next(child.querySelector(".feature-image"), "image");
         next(child.querySelector(".feature-text"));
