@@ -16,6 +16,8 @@
     // add tooltip to elements
     tippy(elements, {
       content: (element) => element.dataset.tooltip.trim(),
+      animation: false,
+      duration: 0,
       delay: [200, 0],
       offset: [0, 20],
       allowHTML: true,
