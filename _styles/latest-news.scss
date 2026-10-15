@@ -37,11 +37,6 @@
   width: 100%;
   height: 100%;
   object-fit: cover;
-  transition: transform 300ms ease;
-}
-
-.latest-news-card:hover .latest-news-image img {
-  transform: scale(1.03);
 }
 
 .latest-news-content {
@@ -104,11 +99,5 @@
 @media (max-width: 560px) {
   .latest-news-grid {
     grid-template-columns: 1fr;
-  }
-}
-
-@media (prefers-reduced-motion: reduce) {
-  .latest-news-image img {
-    transition: none;
   }
 }

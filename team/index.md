@@ -45,6 +45,8 @@ nav:
 연구실에서는 발달심리 연구에 직접 참여하는 경험을 쌓고 싶은, 성실하고 의욕 있는 학부생 연구 조교(Research Assistant)를 매 학기(1, 2학기 / 여름방학, 겨울방학) 모집하고 있습니다. 희망하는 학생들은 아래 링크를 통해 지원해주세요.
 {% include button.html link="https://forms.gle/1x1hiVphYFNDJUcS7" text="학부생 RA 신청" icon="fa-solid fa-graduation-cap" %}
 
+대학원 진학에 관심 있는 학생은 연구실 메일이 아닌 **교수님 메일([hsong@yonsei.ac.kr](mailto:hsong@yonsei.ac.kr))**로 문의해 주세요.
+
 {% include section.html %}
 
 ## Lab photos

@@ -1,0 +1,21 @@
+---
+---
+
+/* Keep page content still, with only a brief response on interactive controls. */
+*,
+*::before,
+*::after {
+  animation: none !important;
+  transition: none !important;
+  scroll-behavior: auto !important;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  :is(a[href], button, [role="button"]) {
+    transition:
+      color 250ms ease,
+      background-color 250ms ease,
+      border-color 250ms ease,
+      box-shadow 250ms ease !important;
+  }
+}
