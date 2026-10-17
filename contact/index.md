@@ -24,8 +24,8 @@ nav:
 {%
   include button.html
   type="phone"
-  text="010-2123-4887"
-  link="+82-10-2123-4887"
+  text="02-2123-4887"
+  link="+82-2-2123-4887"
 %}
 {%
   include button.html
