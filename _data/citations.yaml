@@ -887,10 +887,10 @@
 - id: doi:10.35574/KJDP.2019.03.32.1.87
   title: "Children\u2019s moral evaluations of lying for one\u2019s ingroup member"
   authors:
-  - Jin Kyong-sun
-  - Hwang Jihyun
-  - Song Hyun-joo
-  publisher: The Korean Journal of Developmental Psychology
+  - "\uACBD\uC120 \uC9C4"
+  - "\uC9C0\uD604 \uD669"
+  - "\uD604\uC8FC \uC1A1"
+  publisher: Korean Journal of Developmental Psychology
   date: '2019-03-15'
   link: https://doi.org/hcgfgf
   tags:
@@ -900,8 +900,7 @@
 - id: doi:10.20406/kjcs.2019.5.25.2.137
   title: The relationships between autistic trait and socio-moral judgments
   authors: []
-  publisher: "\uD55C\uAD6D\uC2EC\uB9AC\uD559\uD68C\uC9C0 : \uBB38\uD654 \uBC0F \uC0AC\
-    \uD68C\uBB38\uC81C"
+  publisher: Korean Psychological Journal of Culture and Social Issues
   date: '2019-05-31'
   link: https://doi.org/hcgfhh
   tags:
@@ -1180,10 +1179,8 @@
   file: sources.yaml
 - id: doi:10.35574/KJDP.2025.38.1.52776.52776
   title: Effect of questions on Korean children's exploratory behaviors
-  authors:
-  - Seoyoon Jung
-  - Hyun Joo Song
-  publisher: The Korean Journal of Developmental Psychology
+  authors: []
+  publisher: The Korean Journal Development Psychology
   date: '2025-03-15'
   link: https://doi.org/hcgg8q
   tags:
