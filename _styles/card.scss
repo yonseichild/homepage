@@ -27,18 +27,6 @@
   // box-shadow: var(--shadow);
 }
 
-.card[data-style="illustration"] .card-image {
-  display: block;
-  width: 100%;
-}
-
-.card[data-style="illustration"] .card-image img {
-  display: block;
-  aspect-ratio: 4 / 3;
-  object-fit: contain;
-  background: #FFFBF0;
-}
-
 .card-text {
   display: inline-flex;
   justify-content: flex-start;
