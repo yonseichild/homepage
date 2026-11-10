@@ -1,7 +1,8 @@
 - title: 영아는 익숙한 것과 새로운 것 중 무엇을 더 좋아할까요?
   subtitle: 생후 3개월-15개월
   group: featured
-  image: images/poster_mb5.png
+  image: images/study-infant-preference-v1.png
+  style: illustration
   link: https://www.notion.so/3-15-3760c2dbabb1809db4d4cd1731da588e?source=copy_link
   description: 영아가 화면에 제시되는 다양한 시각 자극을 바라보는 방식을 통해 익숙한 자극과 새로운 자극에 대한 선호가 어떻게 변화하는지를 살펴보고자 하는 연구입니다.
   repo: greenelab/lab-website-template
@@ -11,7 +12,8 @@
 - title: 상호작용 대상에 따라 아동의 질문 특징이 어떻게 달라질까?
   subtitle: 만 4세-10세
   group: featured
-  image: images/poster_ai.jpg
+  image: images/study-child-questions-v1.png
+  style: illustration
   link: https://app.notion.com/p/4-10-19a4fd2d9c6480dc808ee3ad5e911fb9
   description: 상호작용 대상에 따라 보이는 질문 특성이 어떻게 달라지는지를 알아보려고 합니다. 또한 아동이 상호작용 할 때 보이는 특성 및 상호작용 대상에 대한 아동의 인식이 가정 내 미디어 사용 경험과 어떠한 연관성이 있는지 살펴보려고 합니다.
   repo: greenelab/lab-website-template
